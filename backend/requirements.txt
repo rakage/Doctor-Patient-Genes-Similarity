@@ -47,3 +47,6 @@ tzdata==2024.1
 urllib3==2.2.2
 wcwidth==0.2.13
 zipp==3.19.2
+django-heroku==0.3.1
+gunicorn
+psycopg2-binary
