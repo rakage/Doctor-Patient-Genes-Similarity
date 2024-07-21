@@ -29,7 +29,7 @@ SECRET_KEY_AES = '8f3a9c7b2e5d1f6a0h4i8j2k5l7m9n3p6q8r1t4u6v9w2x4y7z0b3c5d8e1g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.vercel.app'] # Allow *.vercel.app
 
 
 # Application definition
